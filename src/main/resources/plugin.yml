@@ -1,0 +1,11 @@
+name: ArrowTNTPlugin
+version: '${project.version}'
+main: com.github.tacowasa059.arrowtntplugin.ArrowTNTPlugin
+api-version: 1.16
+commands:
+  TNTon:
+    description: enable plugin
+    usage: /<command>
+  TNToff:
+    description: diable plugin
+    usage: /<command>
