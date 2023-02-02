@@ -5,3 +5,5 @@
 - /tnton - プラグインon
 
 - /tntoff - プラグインoff
+## コンフィグ
+- interval : 何tickごとにTNTを生み出すか
